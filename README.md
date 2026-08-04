@@ -17,14 +17,14 @@
 
 ### 🚀 About Me
 
-I'm an **Electrical & Electronics Engineering and Mathematics** double major (4.00 GPA, Presidential Scholar) at **Alfred University**, training in **AI/ML at Cornell Tech** through Break Through Tech — selected from **4,000+ applicants**.
+I'm an **Electrical & Electronics Engineering and Mathematics** double major (4.00 GPA, Presidential Scholar) at **Alfred University**, training in **AI/ML at Cornell Tech** through Break Through Tech Program.
 
-- 🔬 **Researching** how temperature affects electronic coupling in organic semiconductors using **CRYSTAL23, DFT, QHA & HPC** at the Knepp Lab
-- ⚛️ **Modeling** ferroelectric FeFETs (HfO₂, 8.3nm) with **Monte Carlo** methods for neuromorphic & non-volatile memory applications
-- 🤖 **Building** real-world AI/ML projects and agentic engineering workflows with AI-assisted dev tools
-- 🌍 **Co-founded SERA Access**, a platform centralizing university applications & global opportunities for students in East Africa
+- ⚛️ **Modeling** ferroelectric FeFETs (HfO₂, 8.3nm) with **Monte Carlo** methods for **neuromorphic & non-volatile memory** applications. 
+- 🔬 **Researching** how temperature affects electronic coupling in organic semiconductors using **CRYSTAL23, DFT, QHA & HPC** at the Knepp Lab.
+- 🤖 **Building** real-world AI/ML projects and agentic engineering workflows with AI-assisted dev tools. (vibe-coding)
+- 🌍 **Co-founded SERA Access**, a platform centralizing university applications & global opportunities for students in East Africa.
 - ⚡ **From** Dar es Salaam, Tanzania 🇹🇿 → Alfred, New York 🇺🇸
-- 💬 Ask me about **AI/ML, semiconductors, embedded systems, or power engineering**
+- 💬 Ask me about **AI/ML, Mathematics, Semiconductors, Embedded systems, or Power engineering and Circuits**
 
 ---
 
