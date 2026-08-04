@@ -22,8 +22,7 @@ I'm an **Electrical & Electronics Engineering and Mathematics** double major (4.
 - ⚛️ **Modeling** ferroelectric FeFETs (HfO₂, 8.3nm) with **Monte Carlo** methods for **neuromorphic & non-volatile memory** applications. 
 - 🔬 **Researching** how temperature affects electronic coupling in organic semiconductors using **CRYSTAL23, DFT, QHA & HPC** at the Knepp Lab.
 - 🤖 **Building** real-world AI/ML projects and agentic engineering workflows with AI-assisted dev tools. (vibe-coding)
-- 🌍 **Co-founded SERA Access**, a platform centralizing university applications & global opportunities for students in East Africa.
-- ⚡ **From** Dar es Salaam, Tanzania 🇹🇿 → Alfred, New York 🇺🇸
+- 🌍 **Co-founded SERA Access**, a platform centralizing university applications & global opportunities for students in East Africa start.
 - 💬 Ask me about **AI/ML, Mathematics, Semiconductors, Embedded systems, or Power engineering and Circuits**
 
 ---
@@ -101,13 +100,20 @@ I'm an **Electrical & Electronics Engineering and Mathematics** double major (4.
 
 ### 🏅 Programs & Fellowships
 
-`Break Through Tech AI/ML` · `NVIDIA Summer Bridge` · `McKinsey Forward` · `Goldman Sachs Possibilities` · `EY Expedition` · `CodePath` · `ColorStack`
+`Break Through Tech AI/ML` · `NVIDIA Summer Bridge` · `Dell Technologies Summer Series` . `McKinsey Forward` · `Goldman Sachs Possibilities` · `EY Expedition` · `CodePath` · `ColorStack`
 
 ### 🤝 Leadership
 
-**President** – NSBE Chapter · **VP** – ColorStack Chapter · **Co-Founder** – SERA Access · **Equity Research Analyst** – SMIF · **VP** – Model UN
+**President** – NSBE Chapter · **VP** – ColorStack Chapter · **Co-Founder** – SERA Access · **Equity Research Analyst** – SMIF (Students Management and Investment Fund, valued at more than $1.1 million)
 
 ---
+
+### 📸 Hobbies
+<img width="480" height="270" alt="DateMealGIFbyFoilArmsandHog" src="https://github.com/user-attachments/assets/1dbaf9f5-2b67-4532-bb06-a58ff751df4e" />
+**Traveling** : This is what eats my money 😂 but I love it.
+**Photography** : I am a photos 📷 guy and yes am good in taking photos.
+**Volleyball** : Beach volleyball is nice, but I don't block smashes 😂
+
 
 <p align="center">
   <i>⚡ Bridging engineering, AI, and business to build solutions that are technically sound and strategically aligned.</i>
