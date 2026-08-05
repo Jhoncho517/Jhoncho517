@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=EE+Engineering+%2B+Mathematics+%40+Alfred+University;AI%2FML+%40+Cornell+Tech+(Break+Through+Tech);Computational+Researcher+%7C+Knepp+Lab;Co-Founder+%26+Lead+Developer+%40+SERA+Access;Bridging+Hardware%2C+AI%2C+and+Business" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=EEE+%2B+Maths%2C+AI%2FML;Computational+Researcher+%7C+Knepp+Lab;Co-Founder+%26+Lead+Developer+%40+SERA+Access;Bridging+Hardware%2C+AI%2C+and+Business" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,6 +54,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-FF4785?style=flat-square&logo=heart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
 </p>
@@ -66,6 +67,14 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
   <img src="https://img.shields.io/badge/SolidWorks-E4002B?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+**Productivity & Design**
+<p>
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 </p>
 
 ---
