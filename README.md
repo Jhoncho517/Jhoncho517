@@ -111,9 +111,11 @@ I'm an **Electrical & Electronics Engineering and Mathematics** double major (4.
 
 <img width="480" height="270" alt="Travel meal GIF" src="https://github.com/user-attachments/assets/1dbaf9f5-2b67-4532-bb06-a58ff751df4e" />
 
-- **Traveling** — This is what eats my money 😂 but I love it.
-- **Photography** — I'm a photos 📷 guy, and yes, I'm good at taking them.
-- **Volleyball** — Beach volleyball is nice, but I don't block smashes 😂
+
+- **Traveling** : This is what eats my money 😂 but I love it.
+- **Photography** : I'm a photos 📷 guy, and yes, I'm good at taking them.
+- **Volleyball** : Beach volleyball is nice, but I don't block smashes 😂
+- **Building** : I love integrating theoretical knowledge to something visible and practical, both (Hardware and Software)
 
 <p align="center">
   <i>⚡ Bridging engineering, AI, and business to build solutions that are technically sound and strategically aligned.</i>
