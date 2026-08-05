@@ -17,7 +17,8 @@
 
 ### 🚀 About Me
 
-I'm an **Electrical & Electronics Engineering and Mathematics** double major (4.00 GPA, Presidential Scholar) at **Alfred University**, training in **AI/ML at Cornell Tech** through Break Through Tech Program.
+I'm an **Electrical & Electronics Engineering and Mathematics** double major (4.00 GPA, Presidential Scholar) at **Alfred University**, training in **AI/ML at Cornell Tech** through Break Through Tech Program. 
+I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ entrepreneurship_. 
 
 - ⚛️ **Modeling** ferroelectric FeFETs (HfO₂, 8.3nm) with **Monte Carlo** methods for **neuromorphic & non-volatile memory** applications. 
 - 🔬 **Researching** how temperature affects electronic coupling in organic semiconductors using **CRYSTAL23, DFT, QHA & HPC** at the Knepp Lab.
