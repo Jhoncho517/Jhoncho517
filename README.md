@@ -127,7 +127,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 - **Photography** : I'm a photos 📷 guy, and yes, I'm good at taking them.
 - **Volleyball** : Beach volleyball is nice, but I don't block smashes 😂
 - **Building** : I love integrating theoretical knowledge to something visible and practical, both (Hardware and Software)
-- **Designing** : I am currently designing my apparel brand. [![GOD APPAREL](https://img.shields.io/badge/GOD%20APPAREL-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_god_apparel?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- **Designing** : I am currently designing my apparel brand. [![GOD APPAREL](https://img.shields.io/badge/GOD-APPAREL-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_god_apparel?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 <p align="center">
   <i>⚡ Bridging engineering, AI, and business to build solutions that are technically sound and strategically aligned.</i>
