@@ -28,6 +28,11 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 - 💬 Ask me about **AI/ML, Mathematics, Semiconductors, Embedded systems, or Power engineering and Circuits**
 
 ---
+## 📊 GitHub Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhoncho517" />
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
