@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=EEE+%2B+Maths%2C+AI%2FML;Computational+Researcher+%7C+Knepp+Lab;Co-Founder+%26+Lead+Developer+%40+SERA+Access;Bridging+Hardware+Software%2C+AI%2C+and+Business" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=EEE+%2B+Maths%2C+AI%2FML;Computational+Researcher+%7C+Knepp+Lab;Co-Founder+%26+Lead+Developer+%40+SERA+Access;Bridging+Hardware,+Software%2C+AI%2C+and+Business" alt="Typing SVG" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 ---
 
 ### 📊 GitHub Stats
-<img width="100%" src="https://ghchart.rshah.org/2ea44f/Jhoncho517" />
+<img src="https://raw.githubusercontent.com/Jhoncho517/Jhoncho517/main/profile-3d-contrib/profile-night-green.svg" />
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jhoncho517&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncho517&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
