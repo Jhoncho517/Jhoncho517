@@ -123,7 +123,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 
 ---
 ### 📸 Hobbies
-- **Traveling** : This is what eats my money 😂 but I love it. [![TikTok Travel Vlogs](https://img.shields.io/badge/TikTok-Travel%20Vlogs-white?style=for-the-badge&logo=tiktok&logoColor=black&labelColor=black&color=white)](https://www.tiktok.com/@_jhoncho?_r=1&_t=ZT-98c2HIuX2dS)
+- **Traveling** : This is what eats my money 😂 but I love it. [![TikTok Travel Vlogs](https://img.shields.io/badge/TikTok-Travel%20Vlogs-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_jhoncho?_r=1&_t=ZT-98c2HIuX2dS)
 - **Photography** : I'm a photos 📷 guy, and yes, I'm good at taking them.
 - **Volleyball** : Beach volleyball is nice, but I don't block smashes 😂
 - **Building** : I love integrating theoretical knowledge to something visible and practical, both (Hardware and Software)
