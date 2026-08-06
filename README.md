@@ -26,12 +26,6 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 - 🤖 **Building** real-world AI/ML projects and agentic engineering workflows with AI-assisted dev tools. (vibe-coding)
 - 🌍 **Co-founded SERA Access**, a platform centralizing university applications & global opportunities for students in East Africa start.
 - 💬 Ask me about **AI/ML, Mathematics, Semiconductors, Embedded systems, or Power engineering and Circuits**
-
----
-## 📊 GitHub Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhoncho517&hide_border=true" />
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -98,7 +92,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 ---
 
 ### 📊 GitHub Stats
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhoncho517&hide_border=true" />
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jhoncho517&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncho517&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
