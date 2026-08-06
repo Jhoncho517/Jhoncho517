@@ -92,7 +92,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 ---
 
 ### 📊 GitHub Stats
-<img src="https://raw.githubusercontent.com/Jhoncho517/Jhoncho517/main/profile-3d-contrib/profile-night-green.svg" />
+<img src="https://raw.githubusercontent.com/Jhoncho517/Jhoncho517/output/github-contribution-grid-snake.svg" />
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jhoncho517&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncho517&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
