@@ -11,10 +11,7 @@
   <a href="https://Jhoncho517.github.io"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:johnsonjasson01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Jhoncho517&style=for-the-badge&color=2F81F7" alt="Profile Views"/>
-
   <br><br>
-
-  📞 <a href="tel:+16074541964"><strong>+1 (607) 454-1964</strong></a>
 </p>
 
 ---
