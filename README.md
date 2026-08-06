@@ -30,7 +30,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 ---
 ## 📊 GitHub Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhoncho517" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhoncho517&hide_border=true" />
 
 ---
 
