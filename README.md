@@ -114,20 +114,20 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 
 ### 🤝 Leadership
 
-**Co-President** – NSBE Chapter, Alfred University · 
-**Vice President** – ColorStack Chapter · 
-**Co-Founder** – SERA Access · 
-**Equity Research Analyst** – SMIF (Students Management and Investment Fund, valued at more than $1.1 million)
-**Break Through Tech Fellow** - Cornell University Tech Program.
+- **Co-President** – NSBE Chapter, Alfred University · 
+- **Vice President** – ColorStack Chapter · 
+- **Co-Founder** – SERA Access · 
+- **Equity Research Analyst** – SMIF (Students Management and Investment Fund, valued at more than $1.1 million)
+- **Break Through Tech Fellow** - Cornell University Tech Program.
 
 
 ---
 ### 📸 Hobbies
 - **Traveling** : This is what eats my money 😂 but I love it. [![TikTok Travel Vlogs](https://img.shields.io/badge/TikTok-Travel%20Vlogs-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_jhoncho?_r=1&_t=ZT-98c2HIuX2dS)
 - **Photography** : I'm a photos 📷 guy, and yes, I'm good at taking them. [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jhoncho?igsh=NGxhamExOGxjb3Bo&utm_source=qr)
-- **Volleyball** : Beach volleyball is nice, but I don't block smashes 😂
-- **Building** : I love integrating theoretical knowledge to something visible and practical, both (Hardware and Software)
 - **Designing** : I am currently designing my apparel brand. [![GOD APPAREL](https://img.shields.io/badge/GOD-APPAREL-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_god_apparel?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- **Volleyball** : Beach volleyball is nice, but I don't block smashes.
+- **Building** : I love integrating theoretical knowledge to something visible and practical, both (Hardware and Software)
 
 <p align="center">
   <i>⚡ Bridging engineering, AI, and business to build solutions that are technically sound and strategically aligned.</i>
