@@ -23,7 +23,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 
 - ⚛️ **Modeling** ferroelectric FeFETs (HfO₂, 8.3nm) with **Monte Carlo** methods for **neuromorphic & non-volatile memory** applications. 
 - 🔬 **Researching** how temperature affects electronic coupling in organic semiconductors using **CRYSTAL23, DFT, QHA & HPC** at the Knepp Lab.
-- 🤖 **Building** real-world AI/ML projects and agentic engineering workflows with AI-assisted dev tools. (vibe-coding)
+- 🤖 **Building**  ESP32 embedded-systems for real-world applications in AI/ML and Computer Vision projects; Built an ESP32 Wi-Fi Smart Switch.
 - 🌍 **Co-founded SERA Access**, a platform centralizing university applications & global opportunities for students in East Africa start.
 - 💬 Ask me about **AI/ML, Mathematics, Semiconductors, Embedded systems, or Power engineering and Circuits**
 ---
