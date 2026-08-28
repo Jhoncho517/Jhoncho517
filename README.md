@@ -93,11 +93,32 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 
 ### 🏅 Programs & Fellowships
 
-<img src="./assets/logos/nvidia.svg" width="20" /> **NVIDIA** · Summer Bridge  
-<img src="./assets/logos/goldman-sachs.svg" width="20" /> **Goldman Sachs** · Possibilities Series  
-<img src="./assets/logos/ey.svg" width="20" /> **EY** · Expedition  
-<img src="./assets/logos/mckinsey.svg" width="20" /> **McKinsey & Company** · Forward Program  
-<img src="./assets/logos/dell.svg" width="20" /> **Dell Technologies** · Summer Series  
+<table>
+<tr>
+<td width="55" align="center"><img src="./assets/logos/nvidia.svg" width="40"></td>
+<td><b>NVIDIA</b> · Summer Bridge</td>
+</tr>
+
+<tr>
+<td width="55" align="center"><img src="./assets/logos/dell.svg" width="40"></td>
+<td><b>Dell Technologies</b> · Summer Series</td>
+</tr>
+
+<tr>
+<td width="55" align="center"><img src="./assets/logos/mckinsey.svg" width="40"></td>
+<td><b>McKinsey & Company</b> · Forward Program</td>
+</tr>
+
+<tr>
+<td width="55" align="center"><img src="./assets/logos/goldman-sachs.svg" width="40"></td>
+<td><b>Goldman Sachs</b> · Possibilities Series</td>
+</tr>
+
+<tr>
+<td width="55" align="center"><img src="./assets/logos/ey.svg" width="34"></td>
+<td><b>EY</b> · Expedition</td>
+</tr>
+</table>
 
 ### 🤝 Leadership
 
