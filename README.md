@@ -93,7 +93,14 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 
 ### 🏅 Programs & Fellowships
 
-`Break Through Tech AI/ML` · `NVIDIA Summer Bridge` · `Dell Technologies Summer Series` . `McKinsey Forward` · `Goldman Sachs Possibilities` · `EY Expedition` · `CodePath` · `ColorStack`
+`Break Through Tech AI/ML` · 
+`NVIDIA Summer Bridge` · 
+`Dell Technologies Summer Series` . 
+`McKinsey Forward` · 
+`Goldman Sachs Possibilities` · 
+`EY Expedition` · 
+`CodePath` · 
+`ColorStack`.
 
 ### 🤝 Leadership
 
