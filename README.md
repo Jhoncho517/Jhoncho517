@@ -159,12 +159,27 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 
 
 ---
-### 📸 HOBBIES
-- **Traveling** : This is what eats my money 😂 but I love it. [![TikTok Travel Vlogs](https://img.shields.io/badge/TikTok-Travel%20Vlogs-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_jhoncho?_r=1&_t=ZT-98c2HIuX2dS)
+### 📸 Hobbies
+
 - **Photography** : I'm a photos 📷 guy, and yes, I'm good at taking them. [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jhoncho?igsh=NGxhamExOGxjb3Bo&utm_source=qr)
-- **Designing** : I am currently designing my apparel brand. [![GOD APPAREL](https://img.shields.io/badge/GOD-APPAREL-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_god_apparel?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 - **Volleyball** : Beach volleyball is nice, but I don't block smashes.
-- **Building** : I love integrating theoretical knowledge to something visible and practical, both (Hardware and Software)
+- **Building** : I love integrating theoretical knowledge into something visible and practical — both hardware and software.
+
+**Traveling** — this is what eats my money 😂 but I love it.
+
+<a href="https://www.tiktok.com/@_jhoncho?_r=1&_t=ZT-98c2HIuX2dS">
+  <img src="./assets/traveling-nyc.png" width="100%">
+</a>
+
+[![TikTok Travel Vlogs](https://img.shields.io/badge/TikTok-Travel%20Vlogs-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_jhoncho?_r=1&_t=ZT-98c2HIuX2dS)
+
+**Designing** — I'm currently designing my apparel brand.
+
+<a href="https://www.instagram.com/_god_apparel?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+  <img src="./assets/god-apparel.png" width="100%">
+</a>
+
+[![GOD APPAREL](https://img.shields.io/badge/GOD-APPAREL-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_god_apparel?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 <p align="center">
   <i>⚡ Bridging engineering, AI, and business to build solutions that are technically sound and strategically aligned.</i>
