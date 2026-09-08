@@ -73,10 +73,10 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 ---
 ### 🏅 PROGRAMS & FELLOWSHIPS
 
-![NVIDIA](https://img.shields.io/badge/NVIDIA-Summer%20Bridge-76B900?style=for-the-badge&logo=nvidia&logoColor=white)<br>
-![Dell Technologies](https://img.shields.io/badge/Dell%20Technologies-Summer%20Series-007DB8?style=for-the-badge&logo=dell&logoColor=white)<br>
-![McKinsey & Company](https://img.shields.io/badge/McKinsey%20%26%20Company-Forward%20Program-051C2C?style=for-the-badge)<br>
-![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Possibilities%20Series-002855?style=for-the-badge)<br>
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Summer%20Bridge-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Dell Technologies](https://img.shields.io/badge/Dell%20Technologies-Summer%20Series-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![McKinsey & Company](https://img.shields.io/badge/McKinsey%20%26%20Company-Forward%20Program-051C2C?style=for-the-badge)
+![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Possibilities%20Series-002855?style=for-the-badge)
 ![EY](https://img.shields.io/badge/EY-Expedition-2E2E38?style=for-the-badge&labelColor=FFE600&logoColor=black)
 
 
