@@ -74,7 +74,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 ![EY](https://img.shields.io/badge/EY-Expedition-2E2E38?style=for-the-badge&labelColor=FFE600&logoColor=black)
 
 
-### 🔨 FEATURED PROJECTS
+### 🔨 Featured Projects
 
 <table>
 <tr>
@@ -88,6 +88,21 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 Co-founded & architected a student empowerment platform centralizing university applications for East Africa — a Common App–style system for Tanzania.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![STITCH](https://img.shields.io/badge/STITCH-1A73E8?style=flat-square&logo=google&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<img src="./assets/accenture-btt.png" width="100%">
+
+### 🤖 AI Studio Fellow · Break Through Tech × Accenture
+AI Fall Studio Fellow building predictive models on real consulting data — training and tuning ML models to forecast outcomes from client datasets.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6E4AFF?style=flat-square)
 
 </td>
 </tr>
@@ -121,6 +136,24 @@ Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery Sta
 
 <img src="./assets/digital-twin.png" width="100%">
 
+### ⚡ AI Digital Twin for Microgrids
+Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids.
+
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square) ![Digital Twin](https://img.shields.io/badge/Digital_Twin-6E4AFF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="./assets/esp32.png" width="100%">
+
+### 📡 ESP32 Wi-Fi Smart Switch
+IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP server for real-time GPIO control.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+</td>
+</tr>
+</table>
 ### ⚡ AI Digital Twin for Microgrids
 Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids.
 
