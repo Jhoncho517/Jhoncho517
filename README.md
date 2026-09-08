@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Johnson Jasson 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="./assets/name-ticker.svg?v=2" alt="Electrical and Electronics Engineering + Mathematics, AI/ML · Computational Researcher · Co-Founder @ SERA · Hardware, Software, AI & Business" width="100%">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/johnson-jasson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://Jhoncho517.github.io"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:johnsonjasson01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
