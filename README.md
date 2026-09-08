@@ -89,7 +89,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 ### 🎓 <a href="https://www.seraaccess.com">SERA Access</a> ↗
 Co-founded & architected a student empowerment platform centralizing university applications for East Africa,a Common App–style system for Tanzania.
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![STITCH](https://img.shields.io/badge/STITCH-1A73E8?style=flat-square&logo=google&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<!--- ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![STITCH](https://img.shields.io/badge/STITCH-1A73E8?style=flat-square&logo=google&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) --->
 
 </td>
 </tr>
