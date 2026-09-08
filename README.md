@@ -81,13 +81,57 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 
 ### 🔨 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🎓 **SERA Access** | Co-founded & architected a student empowerment platform centralizing university applications for East Africa (Common App-style for Tanzania) | `Claude Code` `STITCH` `Vercel` |
-| 🏠 **Airbnb Price Prediction** | ML pipeline on 28,022 NYC listings (51 features) predicting price category; tuned via ROC-AUC, Precision & Recall | `scikit-learn` `Pandas` `Logistic Regression` |
-| 🔋 **Battery Life Prediction** | Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery State-of-Health forecasting | `Python` `CNN` `Colab` |
-| ⚡ **AI Digital Twin for Microgrids** | Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids | `CNN` `Digital Twin` |
-| 📡 **ESP32 Wi-Fi Smart Switch** | IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP server for real-time GPIO control | `C++` `ESP32` `Arduino` |
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🎓 <a href="https://www.seraaccess.com">SERA Access</a> 🔗
+Co-founded & architected a student empowerment platform centralizing university applications for East Africa — a Common App–style system for Tanzania.
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![STITCH](https://img.shields.io/badge/STITCH-1A73E8?style=flat-square&logo=google&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Airbnb Price Prediction
+ML pipeline on 28,022 NYC listings (51 features) predicting price category; tuned via ROC-AUC, Precision & Recall.
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-11557C?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔋 Battery Life Prediction
+Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery State-of-Health forecasting.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ AI Digital Twin for Microgrids
+Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids.
+
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square) ![Digital Twin](https://img.shields.io/badge/Digital_Twin-6E4AFF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 ESP32 Wi-Fi Smart Switch
+IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP server for real-time GPIO control.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 ### 🏅 Programs & Fellowships
