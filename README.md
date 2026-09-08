@@ -173,7 +173,7 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 
 - **Volleyball** : Beach volleyball is nice, but I don't block smashes.
   
-- **Photography** : I'm a photos 📷 guy, and yes, I'm good at taking them.<br>
+- **Photography** : I'm photoholic, and yes, I'm good at taking them.<br>
   [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jhoncho?igsh=NGxhamExOGxjb3Bo&utm_source=qr)
   
 - **Building** : I love integrating theoretical knowledge into something visible and practical, both hardware and software.
