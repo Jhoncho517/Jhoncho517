@@ -154,24 +154,7 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 </td>
 </tr>
 </table>
-### ⚡ AI Digital Twin for Microgrids
-Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids.
 
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square) ![Digital Twin](https://img.shields.io/badge/Digital_Twin-6E4AFF?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/esp32.png" width="100%">
-
-### 📡 ESP32 Wi-Fi Smart Switch
-IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP server for real-time GPIO control.
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
