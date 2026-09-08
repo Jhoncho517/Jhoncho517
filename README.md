@@ -86,7 +86,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 <td width="100%" valign="top">
 
 <a href="https://www.seraaccess.com">
-  <img src="./assets/projects/sera-access.png" width="100%">
+  <img src="./assets/sera-access.png" width="100%">
 </a>
 
 ### 🎓 <a href="https://www.seraaccess.com">SERA Access</a> ↗
@@ -102,7 +102,7 @@ Co-founded & architected a student empowerment platform centralizing university 
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/airbnb.png" width="100%">
+<img src="./assets/airbnb.png" width="100%">
 
 ### 🏠 Airbnb Price Prediction
 ML pipeline on 28,022 NYC listings (51 features) predicting price category; tuned via ROC-AUC, Precision & Recall.
@@ -112,7 +112,7 @@ ML pipeline on 28,022 NYC listings (51 features) predicting price category; tune
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/battery.png" width="100%">
+<img src="./assets/battery.png" width="100%">
 
 ### 🔋 Battery Life Prediction
 Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery State-of-Health forecasting.
@@ -124,7 +124,7 @@ Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery Sta
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/digital-twin.png" width="100%">
+<img src="./assets/digital-twin.png" width="100%">
 
 ### ⚡ AI Digital Twin for Microgrids
 Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids.
@@ -134,7 +134,7 @@ Self-learning BMS digital twin improving battery efficiency by 30% for renewable
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/esp32.png" width="100%">
+<img src="./assets/esp32.png" width="100%">
 
 ### 📡 ESP32 Wi-Fi Smart Switch
 IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP server for real-time GPIO control.
@@ -144,7 +144,6 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 </td>
 </tr>
 </table>
-
 ---
 ### 🏅 Programs & Fellowships
 
