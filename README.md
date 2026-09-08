@@ -25,6 +25,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Verilog-B22222?style=flat-square&logo=verilog&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+</p>
 
 
 **AI / ML & Data**
@@ -35,7 +36,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 </p>
-</p>
+
 
 **AI-Assisted Development**
 <p>
