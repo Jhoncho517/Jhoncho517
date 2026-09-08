@@ -85,7 +85,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 </a>
 
 ### 🎓 <a href="https://www.seraaccess.com">SERA Access</a> ↗
-Co-founded & architected a student empowerment platform centralizing university applications for East Africa — a Common App–style system for Tanzania.
+Co-founded & architected a student empowerment platform centralizing university applications for East Africa,a Common App–style system for Tanzania.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![STITCH](https://img.shields.io/badge/STITCH-1A73E8?style=flat-square&logo=google&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -100,7 +100,7 @@ Co-founded & architected a student empowerment platform centralizing university 
 <img src="./assets/accenture-btt.png" width="100%">
 
 ### 🤖 AI Studio Fellow · Break Through Tech × Accenture
-AI Fall Studio Fellow building predictive models on real consulting data — training and tuning ML models to forecast outcomes from client datasets.
+AI Fall Studio Fellow building predictive models on real consulting data; training and tuning ML models to forecast outcomes from client datasets.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6E4AFF?style=flat-square)
 
