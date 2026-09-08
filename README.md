@@ -93,32 +93,11 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 
 ### 🏅 Programs & Fellowships
 
-<table>
-<tr>
-<td width="55" align="center"><img src="./assets/logos/nvidia.svg" width="40"></td>
-<td><b>NVIDIA</b> · Summer Bridge</td>
-</tr>
-
-<tr>
-<td width="55" align="center"><img src="./assets/logos/dell.svg" width="40"></td>
-<td><b>Dell Technologies</b> · Summer Series</td>
-</tr>
-
-<tr>
-<td width="55" align="center"><img src="./assets/logos/mckinsey.svg" width="40"></td>
-<td><b>McKinsey & Company</b> · Forward Program</td>
-</tr>
-
-<tr>
-<td width="55" align="center"><img src="./assets/logos/goldman-sachs.svg" width="40"></td>
-<td><b>Goldman Sachs</b> · Possibilities Series</td>
-</tr>
-
-<tr>
-<td width="55" align="center"><img src="./assets/logos/ey.svg" width="34"></td>
-<td><b>EY</b> · Expedition</td>
-</tr>
-</table>
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Summer%20Bridge-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Dell Technologies](https://img.shields.io/badge/Dell%20Technologies-Summer%20Series-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![McKinsey & Company](https://img.shields.io/badge/McKinsey%20%26%20Company-Forward%20Program-051C2C?style=for-the-badge)
+![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Possibilities%20Series-002855?style=for-the-badge)
+![EY](https://img.shields.io/badge/EY-Expedition-2E2E38?style=for-the-badge&labelColor=FFE600&logoColor=black)
 
 ### 🤝 Leadership
 
