@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-   <img src="./assets/name-ticker.svg?v=2" alt="EEE + Maths, AI/ML · Computational Researcher | Knepp Lab · Co-Founder & Lead Developer @ SERA Access · Bridging Hardware, Software, AI & Business" width="100%">
+   <img src="./assets/name-ticker.svg?v=2" alt="Electrical and Electronics Engineering + Mathematics, AI/ML · Computational Researcher · Co-Founder @ SERA · Hardware, Software, AI & Business" width="100%">
   </a>
 </p>
 
