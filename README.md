@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 ABOUT ME
 
 I'm an **Electrical & Electronics Engineering and Mathematics** double major (4.00 GPA, Presidential Scholar) at **Alfred University**, training in **AI/ML at Cornell Tech** through Break Through Tech Program. 
 I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ entrepreneurship_. 
@@ -28,7 +28,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 - 💬 Ask me about **AI/ML, Mathematics, Semiconductors, Embedded systems, or Power engineering and Circuits**
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ TECH STCK & TOOLS
 
 **Languages**
 <p>
@@ -79,7 +79,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 
 ---
 
-### 🔨 Featured Projects
+### 🔨 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -144,8 +144,10 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 </td>
 </tr>
 </table>
+
 ---
-🏅 Programs & Fellowships
+
+###🏅 Programs & Fellowships
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-Summer%20Bridge-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ![Dell Technologies](https://img.shields.io/badge/Dell%20Technologies-Summer%20Series-007DB8?style=for-the-badge&logo=dell&logoColor=white)  
@@ -153,7 +155,7 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 ![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Possibilities%20Series-002855?style=for-the-badge)  
 ![EY](https://img.shields.io/badge/EY-Expedition-2E2E38?style=for-the-badge&labelColor=FFE600&logoColor=black)
 
-### 🤝 Leadership
+### 🤝 LEADERSHIP
 
 - **Co-President** – NSBE Chapter, Alfred University · 
 - **Vice President** – ColorStack Chapter · 
@@ -163,7 +165,7 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 
 
 ---
-### 📸 Hobbies
+### 📸 HOBBIES
 - **Traveling** : This is what eats my money 😂 but I love it. [![TikTok Travel Vlogs](https://img.shields.io/badge/TikTok-Travel%20Vlogs-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_jhoncho?_r=1&_t=ZT-98c2HIuX2dS)
 - **Photography** : I'm a photos 📷 guy, and yes, I'm good at taking them. [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jhoncho?igsh=NGxhamExOGxjb3Bo&utm_source=qr)
 - **Designing** : I am currently designing my apparel brand. [![GOD APPAREL](https://img.shields.io/badge/GOD-APPAREL-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_god_apparel?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
