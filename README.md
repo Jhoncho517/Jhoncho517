@@ -28,7 +28,7 @@ I am passionate in _Technology_, _Data_, _AI_, _Semiconductors_ and _Business/ e
 - 💬 Ask me about **AI/ML, Mathematics, Semiconductors, Embedded systems, or Power engineering and Circuits**
 ---
 
-### 🛠️ TECH STCK & TOOLS
+### 🛠️ TECH STACK & TOOLS
 
 **Languages**
 <p>
