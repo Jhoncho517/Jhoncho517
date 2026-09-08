@@ -181,6 +181,4 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 
 [![GOD APPAREL](https://img.shields.io/badge/GOD-APPAREL-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_god_apparel?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-<p align="center">
-  <i>⚡ Bridging engineering, AI, and business to build solutions that are technically sound and strategically aligned.</i>
-</p>
+
