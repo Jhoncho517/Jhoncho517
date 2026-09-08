@@ -145,7 +145,7 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 </tr>
 </table>
 ---
-### 🏅 Programs & Fellowships
+🏅 Programs & Fellowships
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-Summer%20Bridge-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ![Dell Technologies](https://img.shields.io/badge/Dell%20Technologies-Summer%20Series-007DB8?style=for-the-badge&logo=dell&logoColor=white)  
