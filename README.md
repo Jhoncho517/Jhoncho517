@@ -164,7 +164,7 @@ IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP se
 ### 🤝 LEADERSHIP & INVOLVEMENT
 
 - **Co-President** : NSBE Chapter, Alfred University · 
-- **Vice President** : ColorStack Chapter · 
+- **Professional Development Chair** : ColorStack Chapter · 
 - **Co-Founder** : SERA (Student Empowerement and Resources Access) 
 - **Equity Research Analyst** : SMIF (Students Management and Investment Fund, valued at more than $1.1 million)
 - **Break Through Tech Fellow** : Cornell University Tech Program.
