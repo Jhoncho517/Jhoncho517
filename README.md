@@ -104,8 +104,6 @@ Co-founded & architected a student empowerment platform centralizing university 
 ### 🤖 AI Studio Fellow · Break Through Tech × Accenture
 AI Fall Studio Fellow building predictive models on real consulting data; training and tuning ML models to forecast outcomes from client datasets.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6E4AFF?style=flat-square)
-
 </td>
 </tr>
 </table>
@@ -119,8 +117,6 @@ AI Fall Studio Fellow building predictive models on real consulting data; traini
 ### 🏠 Airbnb Price Prediction
 ML pipeline on 28,022 NYC listings (51 features) predicting price category; tuned via ROC-AUC, Precision & Recall.
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-11557C?style=flat-square)
-
 </td>
 <td width="50%" valign="top">
 
@@ -129,7 +125,7 @@ ML pipeline on 28,022 NYC listings (51 features) predicting price category; tune
 ### 🔋 Battery Life Prediction
 Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery State-of-Health forecasting.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
 
 </td>
 </tr>
@@ -141,7 +137,7 @@ Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery Sta
 ### ⚡ AI Digital Twin for Microgrids
 Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids.
 
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square) ![Digital Twin](https://img.shields.io/badge/Digital_Twin-6E4AFF?style=flat-square)
+
 
 </td>
 <td width="50%" valign="top">
@@ -150,9 +146,6 @@ Self-learning BMS digital twin improving battery efficiency by 30% for renewable
 
 ### 📡 ESP32 Wi-Fi Smart Switch
 IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP server for real-time GPIO control.
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
 </td>
 </tr>
 </table>
