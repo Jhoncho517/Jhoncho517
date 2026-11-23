@@ -99,8 +99,6 @@ Co-founded & architected a student empowerment platform centralizing university 
 <tr>
 <td width="100%" valign="top">
 
-<img src="./assets/accenture-btt.png" width="100%">
-
 ### 🤖 AI Studio Fellow · Break Through Tech × Accenture
 AI Fall Studio Fellow building predictive models on real consulting data; training and tuning ML models to forecast outcomes from client datasets.
 
@@ -112,7 +110,6 @@ AI Fall Studio Fellow building predictive models on real consulting data; traini
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/airbnb.png" width="100%">
 
 ### 🏠 Airbnb Price Prediction
 ML pipeline on 28,022 NYC listings (51 features) predicting price category; tuned via ROC-AUC, Precision & Recall.
@@ -120,7 +117,6 @@ ML pipeline on 28,022 NYC listings (51 features) predicting price category; tune
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/battery.png" width="100%">
 
 ### 🔋 Battery Life Prediction
 Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery State-of-Health forecasting.
@@ -132,7 +128,6 @@ Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery Sta
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/digital-twin.png" width="100%">
 
 ### ⚡ AI Digital Twin for Microgrids
 Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids.
@@ -142,17 +137,13 @@ Self-learning BMS digital twin improving battery efficiency by 30% for renewable
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/esp32.png" width="100%">
-
 ### 📡 ESP32 Wi-Fi Smart Switch
 IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP server for real-time GPIO control.
 </td>
 </tr>
 </table>
 
-
 ---
-
 
 ### 🤝 LEADERSHIP & INVOLVEMENT
 
