@@ -99,50 +99,6 @@ Co-founded & architected a student empowerment platform centralizing university 
 <tr>
 <td width="100%" valign="top">
 
-### 🤖 AI Studio Fellow · Break Through Tech × Accenture
-AI Fall Studio Fellow building predictive models on real consulting data; training and tuning ML models to forecast outcomes from client datasets.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-### 🏠 Airbnb Price Prediction
-ML pipeline on 28,022 NYC listings (51 features) predicting price category; tuned via ROC-AUC, Precision & Recall.
-
-</td>
-<td width="50%" valign="top">
-
-
-### 🔋 Battery Life Prediction
-Benchmarked 14 ML models; CNN achieved lowest error (RMSE 0.085) for battery State-of-Health forecasting.
-
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-
-### ⚡ AI Digital Twin for Microgrids
-Self-learning BMS digital twin improving battery efficiency by 30% for renewable microgrids.
-
-
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 ESP32 Wi-Fi Smart Switch
-IoT smart switch with remote ON/OFF control; C++ OOP firmware hosting an HTTP server for real-time GPIO control.
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🤝 LEADERSHIP & INVOLVEMENT
